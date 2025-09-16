@@ -13,9 +13,7 @@ thinking organization.
 
 ### Let's Connect:
 <p align="left">
-<a href="https://linkedin.com/in/[Your-LinkedIn-Username]" target="blank"><img align="center"
-
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-
+<a href="https://linkedin.com/in/[Your-LinkedIn-Username]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-
 generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My LinkedIn Profile" height="30"
 
 width="40" /></a>
